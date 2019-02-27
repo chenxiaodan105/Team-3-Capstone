@@ -1,2 +1,3 @@
-# Team-3-Capstone
-Oracle projects from Selim
+# Capstone
+### Electric Vehicles Presence Discovery
+Team 3 : Teng Tang, Xiaodan Chen
